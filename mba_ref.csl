@@ -1,13 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org" class="in-text" delimiter-precedes-last="always" demote-non-dropping-particle="sort-only" initialize-with="" initialize-with-hyphen="false" name-as-sort-order="all" name-delimiter=", " page-range-format="expanded" sort-separator=" " version="1.0" default-locale="en-US">
-  <!-- This style was edited with the Visual CSL Editor (https://citationstyles.org) -->
   <info>
     <title>MBA_5</title>
-    <title-short>American Medical Association (numeric/Vancouver/citation-sequence)</title-short>
-    <id>http://zotero.org</id>
-    <link href="http://zotero.org" rel="self"/>
+    <title-short>MBA_5</title-short>
+    <id>https://githubusercontent.com</id>
+    <link href="https://githubusercontent.com" rel="self"/>
     <link href="http://zotero.org" rel="template"/>
-    <link href="https://oup.com" rel="documentation"/>
     <author>
       <name>Julian Onions</name>
       <uri>https://orcid.org</uri>
