@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" delimiter-precedes-last="always" demote-non-dropping-particle="sort-only" initialize-with="" initialize-with-hyphen="false" name-as-sort-order="all" name-delimiter=", " page-range-format="expanded" sort-separator=" " version="1.0" default-locale="en-US">
-  <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
+<style xmlns="http://purl.org" class="in-text" delimiter-precedes-last="always" demote-non-dropping-particle="sort-only" initialize-with="" initialize-with-hyphen="false" name-as-sort-order="all" name-delimiter=", " page-range-format="expanded" sort-separator=" " version="1.0" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (https://citationstyles.org) -->
   <info>
     <title>MBA_5</title>
     <title-short>American Medical Association (numeric/Vancouver/citation-sequence)</title-short>
-    <id>http://www.zotero.org/styles/mba_5</id>
-    <link href="http://www.zotero.org/styles/mba_5" rel="self"/>
-    <link href="http://www.zotero.org/styles/american-medical-association-10th-edition" rel="template"/>
-    <link href="https://academic.oup.com/amamanualofstyle" rel="documentation"/>
+    <id>http://zotero.org</id>
+    <link href="http://zotero.org" rel="self"/>
+    <link href="http://zotero.org" rel="template"/>
+    <link href="https://oup.com" rel="documentation"/>
     <author>
       <name>Julian Onions</name>
-      <uri>https://orcid.org/0000-0001-5192-6856</uri>
+      <uri>https://orcid.org</uri>
     </author>
     <contributor>
       <name>Christian Pietsch</name>
-      <uri>https://orcid.org/0000-0001-8778-1273</uri>
+      <uri>https://orcid.org</uri>
     </contributor>
     <contributor>
       <name>Daniel W. Chan</name>
-      <uri>https://orcid.org/0000-0002-8082-2316</uri>
+      <uri>https://orcid.org</uri>
     </contributor>
     <contributor>
       <name>Patrick O'Brien</name>
@@ -26,13 +26,13 @@
     </contributor>
     <contributor>
       <name>Andrew Dunning</name>
-      <uri>https://orcid.org/0000-0003-0464-5036</uri>
+      <uri>https://orcid.org</uri>
     </contributor>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <summary>AMA Manual of Style: A Guide for Authors and Editors (11th ed.)</summary>
     <updated>2026-11-11T20:26:01+00:00</updated>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <rights license="http://creativecommons.org">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
@@ -251,7 +251,6 @@
                   <if variable="number">
                     <text variable="number"/>
                   </if>
-                  <else/>
                 </choose>
                 <date date-parts="year" form="text" variable="issued"/>
               </group>
